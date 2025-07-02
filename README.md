@@ -83,6 +83,7 @@ Between December and May, I tracked seven key areas of my life — mental, emoti
 - **Socials were helpful but not healing.** They supported — not solved — inner challenges.
 - **The emotional curve was the slowest to change.** Peace came last.
 - **Everything got better with intention.** Nothing improved by accident.
+- **Internal Battle?** we all have it, it's nice to see how other factors make it easier.
 
 ---
 
@@ -91,7 +92,6 @@ Between December and May, I tracked seven key areas of my life — mental, emoti
 - **Excel** — for data entry and all visualizations
 - **GitHub** — for project documentation and portfolio
 - **RStudio (planned)** — for deeper stats (correlations, ARIMA forecasting)
-- **Power BI (planned)** — to build an interactive dashboard
 
 ---
 
@@ -100,7 +100,6 @@ Between December and May, I tracked seven key areas of my life — mental, emoti
 - Correlation matrix between all variables
 - ARIMA forecasting in R to predict mood dips
 - Publish blog reflection on Substack
-- Build Power BI dashboard with filters and drilldowns
 
 ---
 
