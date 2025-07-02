@@ -26,6 +26,8 @@ Between December and May, I tracked seven key areas of my life — mental, emoti
 
 ## 🔍 Visual Summary & Key Insights
 
+👉 See the full archive in [`/visuals`](https://github.com/Mohammed-data/happiness-index/tree/main/visuals)
+
 ### 🎯 1. Radar Chart (Start vs End)
 ![Radar Chart](visuals/Radar_Chart.png)
 > A high-level before vs after snapshot. Nearly every metric improved — especially spiritual, productivity, and mental clarity.
