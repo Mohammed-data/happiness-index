@@ -111,4 +111,11 @@ I didn’t build this for a course or a challenge. I built it because I was lost
 
 But it already did what I needed it to do.
 
-— Mo
+## 🔗 Contact
+
+**Mohammed Omar**  
+📧 mohammed.omar.grad2024@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-omar-6b006035a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+🔗 [Portfolio GitHub](https://github.com/Mohammed-data)
+
+
